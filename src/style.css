@@ -529,6 +529,13 @@ section { padding: 6rem 2rem; }
   min-height: 80vh;
 }
 
+.legal-date {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  font-style: italic;
+}
+
 .legal-content {
   max-width: 720px;
   margin-top: 2.5rem;
